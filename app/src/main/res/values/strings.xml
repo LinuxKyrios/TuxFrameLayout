@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TuxLayout</string>
+    <string name="thisis">This is Tux!</string>
+    <string name="mix">(mixed with Android)</string>
 </resources>
